@@ -3,6 +3,8 @@
 ## Overview
 This document provides a simplified introduction to CUDA, NVIDIA's parallel computing platform and programming model. CUDA enables developers to use the power of GPUs for high-performance computing. This guide covers fundamental CUDA concepts, basic programming examples, and performance optimizations.
 
+<img src="CUDA_Cube_1K.jpg" alt="CUDA Cube Image" width="500">
+
 ## Prerequisites
 To follow along with this tutorial, you will need:
 - A CUDA-capable GPU (any NVIDIA GPU should work)
